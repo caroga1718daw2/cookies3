@@ -8,7 +8,7 @@ Mario Recamales (mariorrsv@gmail.com)
    <body>
        <?php
            echo "Afegint Cookies<br>";
-           echo "Sóc el desenvolupador marero1718daw2";
+           echo "Sóc el desenvolupador CarlosRodero";
            setcookie("nom","Jordi Pons", time()+3600,"/","",0);
            setcookie("edat","21",time()+3600,"/","",0);
            setcookie("cicle","DAW",time()+3600,"/","",0);
