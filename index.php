@@ -1,4 +1,4 @@
-<html> 
+<!--<html> 
     <head> 
         <meta charset="UTF­8"> 
         <title>Desplegant una aplicació PHP sobre Heroku</title> 
@@ -14,4 +14,16 @@
             setcookie("any","2017­2018",time()+3600,"/","",0);            
         ?>  
     </body>    
-</html> 
+</html>-->
+
+<html>
+    
+    <head>
+        
+    </head>
+    <body>
+        <?php
+        echo"hoola";
+        ?>
+    </body>
+</html>
