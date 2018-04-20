@@ -1,4 +1,3 @@
-Mario Recamales (mariorrsv@gmail.com)
 <!DOCTYPE html>
 <html>
    <head>
